@@ -4,7 +4,6 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/KyyYE) 
 [![Discord Presence](https://lanyard.cnrad.dev/api/323851177760391180)](https://discord.com/users/323851177760391180)
 
 # 💻 Tech Stack:
